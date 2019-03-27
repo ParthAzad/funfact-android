@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">funfact</string>
+    <string name="WelcomeToFunFactTitleStr">Welcome to FunFact</string>
+    <string name="WelcomeToFunFactDescStr">Keep your day interesting! Receive customized notifications about the most interesting things in your area and of your favorite topics</string>
+    <string name="StartStr">START</string>
+
+
+</resources>
